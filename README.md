@@ -17,7 +17,7 @@ host them on Linux servers and like making things work end-to-end.
 
 | Project | Description | Stack |
 |---|---|---|
-| [shortly](https://github.com/Dilmoq/shortly) | URL shortener REST API with click stats, tests, Docker and CI | FastAPI, SQLAlchemy, pytest |
+| [shortly](https://github.com/Dilmoq/shortly) [🟢 live](http://45.143.203.115:8000) | URL shortener REST API with click stats, tests, Docker and CI | FastAPI, SQLAlchemy, pytest |
 | [servermon](https://github.com/Dilmoq/servermon) | CLI server monitoring: CPU/RAM/disk snapshots, threshold alerts, SQLite history | Python, psutil, sqlite3 |
 ## 🌐 Find me
 
