@@ -19,6 +19,8 @@ host them on Linux servers and like making things work end-to-end.
 |---|---|---|
 | [shortly](https://github.com/Dilmoq/shortly) [🟢 live](http://45.143.203.115:8000) | URL shortener REST API with click stats, tests, Docker and CI | FastAPI, SQLAlchemy, pytest |
 | [servermon](https://github.com/Dilmoq/servermon) | CLI server monitoring: CPU/RAM/disk snapshots, threshold alerts, SQLite history | Python, psutil, sqlite3 |
+| [tg-alerts](https://github.com/Dilmoq/tg-alerts) | Telegram notifications on check failures: firing + recovery, transitions only | Python stdlib, Telegram API |
+| [portfolio-stack](https://github.com/Dilmoq/portfolio-stack) | One command deploys the whole system on any server | Bash, Docker Compose, systemd |
 ## 🌐 Find me
 
 - GitHub: [@Dilmoq](https://github.com/Dilmoq)
